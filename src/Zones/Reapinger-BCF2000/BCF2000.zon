@@ -49,6 +49,7 @@ Zone "Transport|"
   / Bottom right button
   Play                 Play                // Play / Pause
   Record               Record
+  FootSwitch           Record  
   FollowCursor         Reaper     "_3537748bbdcf4f4dbc17d4f304a0574c"
 ZoneEnd
 

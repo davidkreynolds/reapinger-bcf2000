@@ -80,6 +80,11 @@ Widget RotaryPush8
 	FB_TwoState 90 27 7f 90 27 00
 WidgetEnd
 // End Rotary
+// Foot switch
+Widget FootSwitch
+	Press 90 66 7f 90 66 00
+	FB_TwoState 90 66 7f 90 66 00
+WidgetEnd
 
 // Top Row Default
 Widget Mute1
